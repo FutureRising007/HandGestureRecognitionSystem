@@ -1,0 +1,4 @@
+$$$$$$$$$$$$$$$$$$THIS PROJECT HAS THE VIRTUAL ENVIRONMENT NAMED 'HGRS'$$$$$$$$$$$$$$$$$$$$$$$
+
+1. conda activate HGRS
+2. then you can run the Python file using "python Classification.py"
